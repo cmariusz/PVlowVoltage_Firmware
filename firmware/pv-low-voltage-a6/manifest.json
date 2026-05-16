@@ -1,13 +1,13 @@
 {
-    "name":  "Obniżanie napięcia PV - stałe fazy",
-    "version":  "2025.12.04_12h30",
+    "name":  "pv-low-voltage-a6",
+    "version":  "2026.05.16_16h15",
     "builds":  [
                    {
                        "chipFamily":  "ESP32",
                        "ota":  {
                                    "md5":  "a470ff7c4a8ca79d3011347a04bda494",
                                    "path":  "firmware.ota.bin",
-                                   "summary":  "pv-low-voltage-a6 2025.12.04_12h30"
+                                   "summary":  "pv-low-voltage-a6 2026.05.16_16h15"
                                }
                    }
                ]

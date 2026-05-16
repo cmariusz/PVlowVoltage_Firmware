@@ -1,5 +1,5 @@
 {
-    "name":  "Obniżanie napięcia PV",
+    "name":  "pv-low-voltage-b8m",
     "version":  "2026.05.16_16h15",
     "builds":  [
                    {

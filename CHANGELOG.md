@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-05-16 16:41:01
+
+Notes: Use controller technical name in manifests and firmware docs
+
+| Controller name | Version | Change | MD5 |
+|---|---|---|---|
+| pv-low-voltage-a16 | pv-low-voltage-a16 -> 2026.05.16_16h15 | updated | `ea03bbc96dcf0474bb1625384714a013` |
+| pv-low-voltage-a6 | 2025.12.04_12h30 -> 2026.05.16_16h15 | updated | `a470ff7c4a8ca79d3011347a04bda494` |
+
 ## 2026-05-16 16:31:33
 
 | Controller | Version | Change | MD5 |
