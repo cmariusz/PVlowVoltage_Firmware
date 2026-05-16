@@ -21,5 +21,3 @@ Run from the private ESPHome repository:
 .\scripts\prepare-firmware-update.ps1
 .\scripts\prepare-firmware-update.ps1 -Compile -ReleaseNotes "Short change description"
 ```
-
-Generated: 2026-05-16 16:11:23
