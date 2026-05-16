@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-05-16 16:21:33
+
+| Controller | Version | Change | MD5 |
+|---|---|---|---|
+| Obniżanie napięcia PV | 2026.01.13_12h30 -> 2026.05.16_16h15 | updated | `9a39ad1ee35a959ff4beab1f97ca6abe` |
+
 ## 2026-05-16 16:11:23
 
 Notes: Initial public firmware repository publication
