@@ -1,0 +1,14 @@
+{
+    "name":  "Obniżanie napięcia PV - stałe fazy, Sofar",
+    "version":  "2026.01.13_12h30",
+    "builds":  [
+                   {
+                       "chipFamily":  "ESP32-S3",
+                       "ota":  {
+                                   "md5":  "9a39ad1ee35a959ff4beab1f97ca6abe",
+                                   "path":  "firmware.ota.bin",
+                                   "summary":  "pv-low-voltage-b8m 2026.01.13_12h30"
+                               }
+                   }
+               ]
+}
