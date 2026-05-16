@@ -2,20 +2,8 @@
 
 Public ESPHome OTA firmware artifacts for PV low voltage controllers.
 
-Firmware repository: https://github.com/cmariusz/PVlowVoltage_Firmware.git
-Base URL: https://raw.githubusercontent.com/cmariusz/PVlowVoltage_Firmware/main/firmware
-
 ## Firmware
 
 | Controller | Version | Chip | Manifest | Firmware | MD5 |
 |---|---|---|---|---|---|
-| Obniżanie napięcia PV | 2026.05.16_16h15 | ESP32-S3 | [manifest](https://raw.githubusercontent.com/cmariusz/PVlowVoltage_Firmware/main/firmware/pv-low-voltage-b8m/manifest.json) | [firmware](https://raw.githubusercontent.com/cmariusz/PVlowVoltage_Firmware/main/firmware/pv-low-voltage-b8m/firmware.ota.bin) | `9a39ad1ee35a959ff4beab1f97ca6abe` |
-
-## Release process
-
-Run from the private ESPHome repository:
-
-```powershell
-.\scripts\prepare-firmware-update.ps1
-.\scripts\prepare-firmware-update.ps1 -Compile -ReleaseNotes "Short change description"
-```
+| Obniżanie napięcia PV | 2026.05.16_16h15 | ESP32-S3 | [manifest](https://raw.githubusercontent.com/cmariusz/PVlowVoltage_Firmware/main/firmware/pv-low-voltage-b8m/manifest.json) | [firmware](https://raw.githubusercontent.com/cmariusz/PVlowVoltage_Firmware/main/firmware/pv-low-voltage-b8m/firmware.ota.bin) | `0826d3edd055f58d9ffb2da1cab0b28d` |

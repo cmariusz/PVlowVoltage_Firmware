@@ -5,7 +5,7 @@
                    {
                        "chipFamily":  "ESP32-S3",
                        "ota":  {
-                                   "md5":  "9a39ad1ee35a959ff4beab1f97ca6abe",
+                                   "md5":  "0826d3edd055f58d9ffb2da1cab0b28d",
                                    "path":  "firmware.ota.bin",
                                    "summary":  "pv-low-voltage-b8m 2026.05.16_16h15"
                                }

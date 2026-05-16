@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-05-16 16:31:33
+
+| Controller | Version | Change | MD5 |
+|---|---|---|---|
+| Obniżanie napięcia PV | 2026.05.16_16h15 -> 2026.05.16_16h15 | updated | `0826d3edd055f58d9ffb2da1cab0b28d` |
+
 ## 2026-05-16 16:21:33
 
 | Controller | Version | Change | MD5 |
