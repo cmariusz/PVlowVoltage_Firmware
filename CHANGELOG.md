@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-05-16 16:51:11
+
+| Controller name | Version | Change | MD5 |
+|---|---|---|---|
+| pv-low-voltage-b8m | 2026.05.16_16h15 -> 2026.05.16_16h50 | updated | `1aeb3b45a42c0ef82fe1457f206dc703` |
+
 ## 2026-05-16 16:41:01
 
 Notes: Use controller technical name in manifests and firmware docs
