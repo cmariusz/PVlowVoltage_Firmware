@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-05-21 23:27:11
+
+| Controller name | Version | Change | MD5 |
+|---|---|---|---|
+| pv-low-voltage-b8m | 2026.05.21_17h30 -> 2026.05.21_23h18 | updated | `1b8dd3bfd4170259990b431f9940b51f` |
+
 ## 2026-05-21 18:18:08
 
 | Controller name | Version | Change | MD5 |
