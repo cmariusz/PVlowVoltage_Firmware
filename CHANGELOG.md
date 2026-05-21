@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-05-21 18:18:08
+
+| Controller name | Version | Change | MD5 |
+|---|---|---|---|
+| pv-low-voltage-a6 | 2026.05.21_17h30 -> 2026.05.21_18h14 | updated | `23dd8667401255e8e41543ba9902d5e1` |
+
 ## 2026-05-21 17:43:13
 
 | Controller name | Version | Change | MD5 |
