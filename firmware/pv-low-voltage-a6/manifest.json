@@ -1,13 +1,13 @@
 {
     "name":  "pv-low-voltage-a6",
-    "version":  "2026.05.22_09h51",
+    "version":  "2026.05.22_10h12",
     "builds":  [
                    {
                        "chipFamily":  "ESP32",
                        "ota":  {
-                                   "md5":  "be0720a822714829c86a2f41a458890c",
+                                   "md5":  "59e682cbc31e27bc9f3fce0e4d15efad",
                                    "path":  "firmware.ota.bin",
-                                   "summary":  "pv-low-voltage-a6 2026.05.22_09h51"
+                                   "summary":  "pv-low-voltage-a6 2026.05.22_10h12"
                                }
                    }
                ]
