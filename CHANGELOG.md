@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-05-22 12:24:41
+
+Notes: Dodano konfiguracje Wifi przez USB oraz Bluetooth
+
+| Controller name | Version | Change | MD5 |
+|---|---|---|---|
+| pv-low-voltage-a16 | 2026.05.22_10h12 -> 2026.05.22_11h55 | updated | `a30c339c7b131b069a87b428cce86769` |
+| pv-low-voltage-a6 | 2026.05.22_10h12 -> 2026.05.22_11h55 | updated | `2dd6d0ce1419f8ecf4118aff9b69b923` |
+| pv-low-voltage-b8m | 2026.05.22_10h12 -> 2026.05.22_11h55 | updated | `743935e18ea57954afbef03769179e07` |
+
 ## 2026-05-22 10:25:48
 
 Notes: Poprawiono zapisywanie ustawien do Flash
