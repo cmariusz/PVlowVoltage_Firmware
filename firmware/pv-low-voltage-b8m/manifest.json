@@ -1,13 +1,13 @@
 {
     "name":  "pv-low-voltage-b8m",
-    "version":  "2026.05.22_11h55",
+    "version":  "2026.05.22_13h01",
     "builds":  [
                    {
                        "chipFamily":  "ESP32-S3",
                        "ota":  {
-                                   "md5":  "743935e18ea57954afbef03769179e07",
+                                   "md5":  "cad7f2d129d8c9d4077433e7468d2da0",
                                    "path":  "firmware.ota.bin",
-                                   "summary":  "pv-low-voltage-b8m 2026.05.22_11h55"
+                                   "summary":  "pv-low-voltage-b8m 2026.05.22_13h01"
                                }
                    }
                ]
