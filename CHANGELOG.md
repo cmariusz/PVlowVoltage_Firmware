@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-05-22 10:02:42
+
+Notes: Poprawiono zapisywanie ustawien do Flash
+
+| Controller name | Version | Change | MD5 |
+|---|---|---|---|
+| pv-low-voltage-a16 | 2026.05.22_08h56 -> 2026.05.22_09h51 | updated | `e5ef19a3fe7e974203d9b55b32e18227` |
+| pv-low-voltage-a6 | 2026.05.22_08h56 -> 2026.05.22_09h51 | updated | `be0720a822714829c86a2f41a458890c` |
+| pv-low-voltage-b8m | 2026.05.22_08h56 -> 2026.05.22_09h51 | updated | `509aca7e24460848047719ba9e0ce438` |
+
 ## 2026-05-22 09:16:25
 
 Notes: Poprawiono zapamietywanie ustawien sieci Wifi
