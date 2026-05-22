@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-05-22 09:16:25
+
+Notes: Poprawiono zapamietywanie ustawien sieci Wifi
+
+| Controller name | Version | Change | MD5 |
+|---|---|---|---|
+| pv-low-voltage-a16 | 2026.05.21_17h30 -> 2026.05.22_08h56 | updated | `f74834a1b8fef6a75d7930a74c09ff2c` |
+| pv-low-voltage-a6 | 2026.05.21_18h14 -> 2026.05.22_08h56 | updated | `f8d29d218c38bd4011de5bec5d7e2fdb` |
+| pv-low-voltage-b8m | 2026.05.22_08h47 -> 2026.05.22_08h56 | updated | `30af2629d83b3f54a5ccac25dcda2d93` |
+
 ## 2026-05-22 08:51:30
 
 Notes: Poprawiono zapamietywanie ustawien Wifi
